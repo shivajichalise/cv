@@ -16,9 +16,9 @@ export const RESUME_DATA = {
   location: "Pokhara, Nepal",
   locationLink: "https://www.google.com/maps/place/Pokhara",
   about:
-    "Full Stack Web Developer focused on being a strong problem solver and building products with extra attention to detail.",
+    "Full Stack Web Developer with a strong focus on crafting clean, well-tested, and performant code.",
   summary:
-    "As a Full Stack Web Developer, I enjoy experimenting with new technologies to expand my expertise and thrive on challenges. Passionate about technology, I've explored various techstacks. Currently, I work mostly with Laravel, Tailwind CSS, TypeScript, React, Node.js, and MYSQL with over 2 years of experience in Laravel.",
+    "As a Full Stack Web Developer, I enjoy experimenting with new technologies to expand my expertise and thrive on challenges. Passionate about technology, I've explored various techstacks. Currently, I work mostly with Laravel, Tailwind CSS, TypeScript, React, Node.js, and MYSQL with over 2 years of experience in web development.",
   avatarUrl:
     "https://media.licdn.com/dms/image/D4E03AQGCXg2IkSGobQ/profile-displayphoto-shrink_400_400/0/1707408571802?e=1719446400&v=beta&t=3qngRIi6KCVSwgiPRoyAf4T9WnCZMdHZA0nql87bPmk",
   personalWebsiteUrl: "https://shivajichalise.com.np",
@@ -57,12 +57,22 @@ export const RESUME_DATA = {
       company: "Zerone Technology",
       link: "https://zeronetechnology.com.np/",
       badges: [],
-      title: "Intern → Junior Full Stack Web Developer",
+      title: "Intern → Full Stack Web Developer",
       logo: JojoMobileLogo,
       start: "2022",
       end: "Present",
       description:
-        "Created dynamic web applications for diverse clients while transitioning into the role of project maintainer for existing projects. Continuously enhancing skills and delivering impactful solutions as a Junior Full Stack Web Developer since 2022.",
+        "Created dynamic web applications for diverse clients while transitioning into the role of project maintainer for existing projects. Continuously enhancing skills and delivering impactful solutions as a Full Stack Web Developer since 2022.",
+    },
+    {
+      company: "Freelancer",
+      link: "",
+      badges: [],
+      // title: "Freelancer",
+      logo: JojoMobileLogo,
+      start: "2020",
+      end: "2021",
+      description: "Freelanced as a web developer.",
     },
     {
       company: "Zerone Technology",
@@ -73,7 +83,7 @@ export const RESUME_DATA = {
       start: "2019",
       end: "2019",
       description:
-        "Completed a 45-day internship, sub-merging myself in the world of software development, with a primary focus on Laravel. Thrived in a collaborative team environment, honing my skills and gaining valuable experience.",
+        "Completed a 45-day internship, sub-merging myself in the world of web development, with a primary focus on Laravel. Thrived in a collaborative team environment, honing my skills and gaining valuable experience.",
     },
   ],
   skills: [
@@ -90,6 +100,7 @@ export const RESUME_DATA = {
     "Linux",
     "Bash",
     "Docker",
+    "Solidity",
   ],
   projects: [
     {
@@ -105,7 +116,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Rays Motors",
-      techStack: ["React", "Styled Components", "Laravel"],
+      techStack: ["React", "Styled Components", "Node.js", "MongoDB"],
       description: "A web app for ISUZU vehicle showroom.",
       logo: ConsultlyLogo,
       link: {
@@ -115,7 +126,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Miraj Furniture",
-      techStack: ["React"],
+      techStack: ["React", "Styled Components"],
       description: "A website for Miraj Furnitures. static",
       logo: MonitoLogo,
       link: {
@@ -144,6 +155,16 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Event Mate",
+      techStack: ["College Project", "Laravel", "React"],
+      description: "An event management web app.",
+      logo: YearProgressLogo,
+      link: {
+        label: "github.com",
+        href: "https://github.com/shivajichalise/eventmate",
+      },
+    },
+    {
       title: "NRB Forex",
       techStack: ["Internal tool", "Custom Package", "Laravel"],
       description:
@@ -152,6 +173,17 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://github.com/kodefarmers/nrb-forex",
+      },
+    },
+    {
+      title: "Nepal Data",
+      techStack: ["Internal tool", "Custom Package", "Laravel"],
+      description:
+        "A laravel package to get Nepal data (Provinces, Districts, Municipalities).",
+      logo: Minimal,
+      link: {
+        label: "github.com",
+        href: "https://github.com/kodefarmers/nepaldata",
       },
     },
     {
@@ -164,8 +196,7 @@ export const RESUME_DATA = {
         "Node.js",
         "Express.js",
       ],
-      description:
-        "A simple code snippet web app. It is currently in developement.",
+      description: "A simple code snippet web app in developement.",
       logo: BarepapersLogo,
       link: {
         label: "github.com",
@@ -173,13 +204,23 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Event Mate",
-      techStack: ["College Project", "Laravel", "React"],
-      description: "An event management web app.",
-      logo: YearProgressLogo,
+      title: "Blockure",
+      techStack: [
+        "Side Project",
+        "React",
+        "TypeScript",
+        "MongoDB",
+        "Node.js",
+        "Express.js",
+        "Web3",
+        "Solidity",
+      ],
+      description:
+        "A web3 project in development: an API service for blockchain-based certificate generation and validation.",
+      logo: BarepapersLogo,
       link: {
         label: "github.com",
-        href: "https://github.com/shivajichalise/eventmate",
+        href: "https://github.com/shivajichalise/blockure",
       },
     },
   ],
