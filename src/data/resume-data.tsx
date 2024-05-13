@@ -68,7 +68,7 @@ export const RESUME_DATA = {
       company: "Freelancer",
       link: "",
       badges: [],
-      // title: "Freelancer",
+      title: "",
       logo: JojoMobileLogo,
       start: "2020",
       end: "2021",
