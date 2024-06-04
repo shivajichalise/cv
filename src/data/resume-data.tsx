@@ -1,14 +1,18 @@
+// import {
+//   BarepapersLogo,
+//   ConsultlyLogo,
+//   JarockiMeLogo,
+//   JojoMobileLogo,
+//   Minimal,
+//   MonitoLogo,
+//   NSNLogo,
+//   YearProgressLogo,
+// } from "@/images/logos";
 import {
-  BarepapersLogo,
-  ConsultlyLogo,
-  JarockiMeLogo,
-  JojoMobileLogo,
-  Minimal,
-  MonitoLogo,
-  NSNLogo,
-  YearProgressLogo,
-} from "@/images/logos";
-import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+  GitHubIcon,
+  LinkedInIcon,
+  // XIcon
+} from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Shivaji Chalise",
@@ -20,7 +24,7 @@ export const RESUME_DATA = {
   summary:
     "As a Full Stack Web Developer, I enjoy experimenting with new technologies to expand my expertise and thrive on challenges. Passionate about technology, I've explored various techstacks. Currently, I work mostly with Laravel, Tailwind CSS, TypeScript, React, Node.js, and MYSQL with over 2 years of experience in web development.",
   avatarUrl:
-    "https://media.licdn.com/dms/image/D4E03AQGCXg2IkSGobQ/profile-displayphoto-shrink_400_400/0/1707408571802?e=1719446400&v=beta&t=3qngRIi6KCVSwgiPRoyAf4T9WnCZMdHZA0nql87bPmk",
+    "https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/square-dp-shivaji.png",
   personalWebsiteUrl: "https://shivajichalise.com.np",
   contact: {
     email: "respond2shivaji@gmail.com",
@@ -58,7 +62,7 @@ export const RESUME_DATA = {
       link: "https://zeronetechnology.com.np/",
       badges: [],
       title: "Intern → Full Stack Web Developer",
-      logo: JojoMobileLogo,
+      // logo: JojoMobileLogo,
       start: "2022",
       end: "Present",
       description:
@@ -69,7 +73,7 @@ export const RESUME_DATA = {
       link: "",
       badges: [],
       title: "",
-      logo: JojoMobileLogo,
+      // logo: JojoMobileLogo,
       start: "2020",
       end: "2021",
       description: "Freelanced as a web developer.",
@@ -79,7 +83,7 @@ export const RESUME_DATA = {
       link: "https://www.zeronetechnology.com.np",
       badges: [],
       title: "Intern",
-      logo: NSNLogo,
+      // logo: NSNLogo,
       start: "2019",
       end: "2019",
       description:
@@ -108,7 +112,7 @@ export const RESUME_DATA = {
       techStack: ["Laravel", "Bootstrap", "Blade"],
       description:
         "A web app for runners to register in race event with an intuitive admin dashboard to manage users, race registrations, certificates etc.",
-      logo: ConsultlyLogo,
+      // logo: ConsultlyLogo,
       link: {
         label: "pokharamarathon.org",
         href: "https://app.pokharamarathon.org/",
@@ -118,7 +122,7 @@ export const RESUME_DATA = {
       title: "Rays Motors",
       techStack: ["React", "Styled Components", "Node.js", "MongoDB"],
       description: "A web app for ISUZU vehicle showroom.",
-      logo: ConsultlyLogo,
+      // logo: ConsultlyLogo,
       link: {
         label: "raysmotors.com.np",
         href: "https://raysmotors.com.np/",
@@ -128,7 +132,7 @@ export const RESUME_DATA = {
       title: "Miraj Furniture",
       techStack: ["React", "Styled Components"],
       description: "A website for Miraj Furnitures. static",
-      logo: MonitoLogo,
+      // logo: MonitoLogo,
       link: {
         label: "mirajfurniture.com.np",
         href: "https://mirajfurniture.com.np/",
@@ -138,7 +142,7 @@ export const RESUME_DATA = {
       title: "Shivaji Chalise",
       techStack: ["Side Project", "React"],
       description: "Personal website/blog for myself.",
-      logo: JarockiMeLogo,
+      // logo: JarockiMeLogo,
       link: {
         label: "shivajichalise.com.np",
         href: "https://shivajichalise.com.np/",
@@ -148,7 +152,7 @@ export const RESUME_DATA = {
       title: "Yakeen Kapali",
       techStack: ["Side Project", "React", "Material UI"],
       description: "Personal website for my friend; a graphic designer.",
-      logo: JarockiMeLogo,
+      // logo: JarockiMeLogo,
       link: {
         label: "yakeenkapali.com.np",
         href: "https://yakeenkapali.com.np/",
@@ -158,7 +162,7 @@ export const RESUME_DATA = {
       title: "Event Mate",
       techStack: ["College Project", "Laravel", "React"],
       description: "An event management web app.",
-      logo: YearProgressLogo,
+      // logo: YearProgressLogo,
       link: {
         label: "github.com",
         href: "https://github.com/shivajichalise/eventmate",
@@ -169,7 +173,7 @@ export const RESUME_DATA = {
       techStack: ["Internal tool", "Custom Package", "Laravel"],
       description:
         "A laravel package to consume Nepal Rastra Bank's forex api.",
-      logo: Minimal,
+      // logo: Minimal,
       link: {
         label: "github.com",
         href: "https://github.com/kodefarmers/nrb-forex",
@@ -180,7 +184,7 @@ export const RESUME_DATA = {
       techStack: ["Internal tool", "Custom Package", "Laravel"],
       description:
         "A laravel package to get Nepal data (Provinces, Districts, Municipalities).",
-      logo: Minimal,
+      // logo: Minimal,
       link: {
         label: "github.com",
         href: "https://github.com/kodefarmers/nepaldata",
@@ -197,7 +201,7 @@ export const RESUME_DATA = {
         "Express.js",
       ],
       description: "A simple code snippet web app in developement.",
-      logo: BarepapersLogo,
+      // logo: BarepapersLogo,
       link: {
         label: "github.com",
         href: "https://github.com/shivajichalise/snippysnapysuu",
@@ -217,7 +221,7 @@ export const RESUME_DATA = {
       ],
       description:
         "A web3 project in development: an API service for blockchain-based certificate generation and validation.",
-      logo: BarepapersLogo,
+      // logo: BarepapersLogo,
       link: {
         label: "github.com",
         href: "https://github.com/shivajichalise/blockure",
