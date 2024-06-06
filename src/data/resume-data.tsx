@@ -208,6 +208,26 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Bola na bola",
+      techStack: [
+        "Side project",
+        "React",
+        "Redux",
+        "Node.js",
+        "Express.js",
+        "Socket.io",
+        "Sequelize",
+        "PostgreSQL",
+        "React Hook Form",
+      ],
+      description: "A dead simple real time chat application.",
+      // logo: YearProgressLogo,
+      link: {
+        label: "github.com",
+        href: "https://github.com/shivajichalise/bolanabola",
+      },
+    },
+    {
       title: "Blockure",
       techStack: [
         "Side Project",
