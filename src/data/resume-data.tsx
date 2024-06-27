@@ -22,7 +22,7 @@ export const RESUME_DATA = {
   about:
     "Full Stack Web Developer with a strong focus on crafting clean, well-tested, and performant code.",
   summary:
-    "As a Full Stack Web Developer, I enjoy experimenting with new technologies to expand my expertise and thrive on challenges. Passionate about technology, I've explored various techstacks. Currently, I work mostly with Laravel, Tailwind CSS, TypeScript, React, Node.js, and MYSQL with over 2 years of experience in web development.",
+    "Experienced full-stack web developer with over 2 years of expertise. Skilled in Laravel and Node.js for backend development, and proficient in React for dynamic frontend interfaces. Familiar with MySQL, MongoDB, and PostgreSQL for efficient database management. Additional strengths include Bash scripting, Git, Linux, and Docker, with ongoing learning in Rust and Solidity. Known for designing RESTful APIs and adept at comprehensive project development across frontend and backend technologies, committed to continuous improvement and staying current with industry trends.",
   avatarUrl:
     "https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/square-dp-shivaji.png",
   personalWebsiteUrl: "https://shivajichalise.com.np",
