@@ -47,7 +47,7 @@ export const RESUME_DATA = {
       school: "Gandaki College of Engineering and Science",
       degree: "Bachelors in Software Engineering",
       start: "2019",
-      end: "Present",
+      end: "2024",
     },
     {
       school: "Pokhara Engineering College",
@@ -93,7 +93,7 @@ export const RESUME_DATA = {
   skills: [
     "PHP",
     "Laravel",
-    "MYSQL",
+    "MySQL",
     "JavaScript",
     "TypeScript",
     "React",
