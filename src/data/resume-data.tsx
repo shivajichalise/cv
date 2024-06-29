@@ -20,9 +20,9 @@ export const RESUME_DATA = {
   location: "Pokhara, Nepal",
   locationLink: "https://www.google.com/maps/place/Pokhara",
   about:
-    "Full Stack Web Developer with a strong focus on crafting clean, well-tested, and performant code.",
+    "Full Stack Web Developer with a strong focus on crafting clean, well-tested, and performant code, with over 2 years of expertise.",
   summary:
-    "Experienced full-stack web developer with over 2 years of expertise. Skilled in Laravel and Node.js for backend development, and proficient in React for dynamic frontend interfaces. Familiar with MySQL, MongoDB, and PostgreSQL for efficient database management. Additional strengths include Bash scripting, Git, Linux, and Docker, with ongoing learning in Rust and Solidity. Known for designing RESTful APIs and adept at comprehensive project development across frontend and backend technologies, committed to continuous improvement and staying current with industry trends.",
+    "Experienced in Laravel and Node.js for backend development, proficient in React for dynamic frontend interfaces. Skilled with MySQL, MongoDB, and PostgreSQL for efficient database management. Fluent in Bash scripting, Git, Linux, and Docker, currently advancing skills in Rust and Solidity. Known for designing RESTful APIs and adept at full-stack project development, dedicated to ongoing learning and staying current with industry trends.",
   avatarUrl:
     "https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/square-dp-shivaji.png",
   personalWebsiteUrl: "https://shivajichalise.com.np",
@@ -104,8 +104,10 @@ export const RESUME_DATA = {
     "Linux",
     "Bash",
     "Docker",
+    "Solidity",
+    "Rust",
+    "Go",
   ],
-  learning: ["Solidity", "Rust", "Go"],
   projects: [
     {
       title: "Pokhara Marathon",
@@ -261,8 +263,7 @@ export const RESUME_DATA = {
     {
       title: "Rustcp",
       techStack: ["Side Project", "Rust"],
-      description:
-        "A very simple multi-threaded concurrent chat server. It's employs MPSC (Multiple Producer, Single Consumer) pattern. Messages sent by clients are broadcasted to all other connected clients.",
+      description: "A very simple multi-threaded mpsc concurrent chat server.",
       // logo: BarepapersLogo,
       link: {
         label: "github.com",
