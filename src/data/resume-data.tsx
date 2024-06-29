@@ -247,5 +247,38 @@ export const RESUME_DATA = {
         href: "https://github.com/shivajichalise/blockure",
       },
     },
+    {
+      title: "Rustodo",
+      techStack: ["Side Project", "Rust", "HTMX"],
+      description:
+        "A very simple single-threaded web server with a todo program. The server allows me to add and delete todos dynamically, all while storing them in memory using a HashMap during runtime—no database is used.",
+      // logo: BarepapersLogo,
+      link: {
+        label: "github.com",
+        href: "https://github.com/shivajichalise/rustodo",
+      },
+    },
+    {
+      title: "Rustcp",
+      techStack: ["Side Project", "Rust"],
+      description:
+        "A very simple multi-threaded concurrent chat server. It's employs MPSC (Multiple Producer, Single Consumer) pattern. Messages sent by clients are broadcasted to all other connected clients.",
+      // logo: BarepapersLogo,
+      link: {
+        label: "github.com",
+        href: "https://github.com/shivajichalise/rust-tcp",
+      },
+    },
+    {
+      title: "Forex",
+      techStack: ["Side Project", "Rust"],
+      description:
+        "Console program to consume Nepal Rastra Bank's Foreign Exchange Rates API.",
+      // logo: BarepapersLogo,
+      link: {
+        label: "github.com",
+        href: "https://github.com/shivajichalise/forex",
+      },
+    },
   ],
 } as const;
