@@ -104,9 +104,8 @@ export const RESUME_DATA = {
     "Linux",
     "Bash",
     "Docker",
-    "Solidity",
-    "Rust",
   ],
+  learning: ["Solidity", "Rust", "Go"],
   projects: [
     {
       title: "Pokhara Marathon",
