@@ -105,6 +105,7 @@ export const RESUME_DATA = {
     "Bash",
     "Docker",
     "Solidity",
+    "Rust",
   ],
   projects: [
     {
