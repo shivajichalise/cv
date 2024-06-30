@@ -20,9 +20,9 @@ export const RESUME_DATA = {
   location: "Pokhara, Nepal",
   locationLink: "https://www.google.com/maps/place/Pokhara",
   about:
-    "Full Stack Engineer with a strong focus on crafting clean, well-tested, and performant code, with over 2 years of expertise.",
+    "Full Stack Engineer with a strong focus on crafting clean, well-tested, and performant code.",
   summary:
-    "Experienced in Laravel and Node.js for backend development, proficient in React for dynamic frontend interfaces. Skilled with MySQL, MongoDB, and PostgreSQL for efficient database management. Fluent in Bash scripting, Git, Linux, and Docker, currently advancing skills in Rust, Go and Solidity. Known for designing RESTful APIs and adept at full-stack project development, dedicated to ongoing learning and staying current with industry trends.",
+    "As a Full Stack Engineer, I specialize in end-to-end project development, primarily using Laravel/Node.js, TypeScript, and React. With over 2 years of experience in this field, I am dedicated to ongoing learning and staying current with industry trends.",
   avatarUrl:
     "https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/square-dp-shivaji.png",
   personalWebsiteUrl: "https://shivajichalise.com.np",
@@ -91,11 +91,10 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "PHP",
-    "Laravel",
-    "MySQL",
+    "PHP/Laravel",
     "JavaScript",
     "TypeScript",
+    "MySQL",
     "React",
     "Node.js",
     "Express.js",
@@ -240,7 +239,7 @@ export const RESUME_DATA = {
         "Solidity",
       ],
       description:
-        "A web3 project in development: an API service for blockchain-based certificate generation and validation.",
+        "Developing a web3 API service for blockchain certificate generation and validation.",
       // logo: BarepapersLogo,
       link: {
         label: "github.com",
