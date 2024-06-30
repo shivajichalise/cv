@@ -20,9 +20,9 @@ export const RESUME_DATA = {
   location: "Pokhara, Nepal",
   locationLink: "https://www.google.com/maps/place/Pokhara",
   about:
-    "Full Stack Web Developer with a strong focus on crafting clean, well-tested, and performant code, with over 2 years of expertise.",
+    "Full Stack Engineer with a strong focus on crafting clean, well-tested, and performant code, with over 2 years of expertise.",
   summary:
-    "Experienced in Laravel and Node.js for backend development, proficient in React for dynamic frontend interfaces. Skilled with MySQL, MongoDB, and PostgreSQL for efficient database management. Fluent in Bash scripting, Git, Linux, and Docker, currently advancing skills in Rust and Solidity. Known for designing RESTful APIs and adept at full-stack project development, dedicated to ongoing learning and staying current with industry trends.",
+    "Experienced in Laravel and Node.js for backend development, proficient in React for dynamic frontend interfaces. Skilled with MySQL, MongoDB, and PostgreSQL for efficient database management. Fluent in Bash scripting, Git, Linux, and Docker, currently advancing skills in Rust, Go and Solidity. Known for designing RESTful APIs and adept at full-stack project development, dedicated to ongoing learning and staying current with industry trends.",
   avatarUrl:
     "https://raw.githubusercontent.com/shivajichalise/shivajichalise/main/images/square-dp-shivaji.png",
   personalWebsiteUrl: "https://shivajichalise.com.np",
@@ -61,12 +61,12 @@ export const RESUME_DATA = {
       company: "Zerone Technology",
       link: "https://zeronetechnology.com.np/",
       badges: [],
-      title: "Intern → Full Stack Web Developer",
+      title: "Intern → Full Stack Engineer",
       // logo: JojoMobileLogo,
       start: "2022",
       end: "Present",
       description:
-        "Created dynamic web applications for diverse clients while transitioning into the role of project maintainer for existing projects. Continuously enhancing skills and delivering impactful solutions as a Full Stack Web Developer since 2022.",
+        "Created dynamic web applications for diverse clients while transitioning into the role of project maintainer for existing projects. Continuously enhancing skills and delivering impactful solutions as a Full Stack Engineer since 2022.",
     },
     {
       company: "Freelancer",
@@ -104,10 +104,8 @@ export const RESUME_DATA = {
     "Linux",
     "Bash",
     "Docker",
-    "Solidity",
-    "Rust",
-    "Go",
   ],
+  learning: ["Solidity", "Rust", "Go"],
   projects: [
     {
       title: "Pokhara Marathon",
@@ -253,7 +251,7 @@ export const RESUME_DATA = {
       title: "Rustodo",
       techStack: ["Side Project", "Rust", "HTMX"],
       description:
-        "A very simple single-threaded web server with a todo program. The server allows me to add and delete todos dynamically, all while storing them in memory using a HashMap during runtime—no database is used.",
+        "A basic single-threaded web server with a todo list feature. No database is used. Add and delete todos from HashMap.",
       // logo: BarepapersLogo,
       link: {
         label: "github.com",
@@ -279,6 +277,16 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://github.com/shivajichalise/forex",
+      },
+    },
+    {
+      title: "Gotcp",
+      techStack: ["Side Project", "Go"],
+      description: "A very simple multi user chat server.",
+      // logo: BarepapersLogo,
+      link: {
+        label: "github.com",
+        href: "https://github.com/shivajichalise/go-tcp",
       },
     },
   ],
