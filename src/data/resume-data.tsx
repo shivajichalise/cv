@@ -61,7 +61,7 @@ export const RESUME_DATA = {
       company: "Zerone Technology",
       link: "https://zeronetechnology.com.np/",
       badges: [],
-      title: "Intern → Full Stack Engineer",
+      title: "Full Stack Engineer",
       // logo: JojoMobileLogo,
       start: "2022",
       end: "Present",
