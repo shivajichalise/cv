@@ -128,36 +128,6 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Miraj Furniture",
-      techStack: ["React", "Styled Components"],
-      description: "A website for Miraj Furnitures. static",
-      // logo: MonitoLogo,
-      link: {
-        label: "mirajfurniture.com.np",
-        href: "https://mirajfurniture.com.np/",
-      },
-    },
-    {
-      title: "Shivaji Chalise",
-      techStack: ["Side Project", "React"],
-      description: "Personal website/blog for myself.",
-      // logo: JarockiMeLogo,
-      link: {
-        label: "shivajichalise.com.np",
-        href: "https://shivajichalise.com.np/",
-      },
-    },
-    {
-      title: "Yakeen Kapali",
-      techStack: ["Side Project", "React", "Material UI"],
-      description: "Personal website for my friend; a graphic designer.",
-      // logo: JarockiMeLogo,
-      link: {
-        label: "yakeenkapali.com.np",
-        href: "https://yakeenkapali.com.np/",
-      },
-    },
-    {
       title: "Event Mate",
       techStack: ["College Project", "Laravel", "React"],
       description: "An event management web app.",
@@ -244,6 +214,36 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://github.com/shivajichalise/blockure",
+      },
+    },
+    {
+      title: "Miraj Furniture",
+      techStack: ["React", "Styled Components"],
+      description: "A website for Miraj Furnitures. static",
+      // logo: MonitoLogo,
+      link: {
+        label: "mirajfurniture.com.np",
+        href: "https://mirajfurniture.com.np/",
+      },
+    },
+    {
+      title: "Shivaji Chalise",
+      techStack: ["Side Project", "React"],
+      description: "Personal website/blog for myself.",
+      // logo: JarockiMeLogo,
+      link: {
+        label: "shivajichalise.com.np",
+        href: "https://shivajichalise.com.np/",
+      },
+    },
+    {
+      title: "Yakeen Kapali",
+      techStack: ["Side Project", "React", "Material UI"],
+      description: "Personal website for my friend; a graphic designer.",
+      // logo: JarockiMeLogo,
+      link: {
+        label: "yakeenkapali.com.np",
+        href: "https://yakeenkapali.com.np/",
       },
     },
     {
