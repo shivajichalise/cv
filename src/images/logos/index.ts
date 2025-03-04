@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import ConsultlyLogo from "./consultly.svg";
 import AmbitLogo from "./ambit.png";
 import BarepapersLogo from "./barepapers.svg";
@@ -35,3 +36,8 @@ export {
   YearProgressLogo,
   Minimal,
 };
+=======
+import ShivajiChaliseLogo from "./shivajichalise.png";
+
+export { ShivajiChaliseLogo };
+>>>>>>> demo

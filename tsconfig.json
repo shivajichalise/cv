@@ -1,7 +1,14 @@
 {
   "compilerOptions": {
+<<<<<<< HEAD
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
+=======
+    "target": "es2021",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+>>>>>>> demo
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -9,6 +16,10 @@
     "esModuleInterop": true,
     "module": "esnext",
     "moduleResolution": "bundler",
+<<<<<<< HEAD
+=======
+    "strictPropertyInitialization": false,
+>>>>>>> demo
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
@@ -22,6 +33,16 @@
       "@/*": ["./src/*"]
     }
   },
+<<<<<<< HEAD
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/images/logos/*.*"],
+=======
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "src/images/logos/*.*"
+  ],
+>>>>>>> demo
   "exclude": ["node_modules"]
 }
