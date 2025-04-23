@@ -20,7 +20,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://shivajichalise.com.np",
   contact: {
     email: "respond2shivaji@gmail.com",
-    tel: "+977-9840610177",
+    // tel: "+977-9840610177",
     social: [
       {
         name: "GitHub",
@@ -148,7 +148,7 @@ export const RESUME_DATA = {
           <li className="pb-2">Interned as a web developer.</li>
 
           <li className="">
-            Gained proficiency in JavaScriot, PHP/Laravel while working on
+            Gained proficiency in JavaScript, PHP/Laravel while working on
             various web development tasks.
           </li>
         </ul>
