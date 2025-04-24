@@ -59,9 +59,8 @@ export const RESUME_DATA = {
       description: (
         <ul className="list-inside list-disc">
           <li className="pb-2">
-            Designed and developed RESTful APIs for E-Grow’s closed/open
-            marketplace, supporting mobile app integration for marketplace
-            access and transactions.
+            Designed and developed RESTful APIs for marketplace, supporting
+            mobile app integration for marketplace access and transactions.
           </li>
 
           <li className="pb-2">
